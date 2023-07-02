@@ -1,0 +1,24 @@
+body{
+    background-image: url("./pexels-photo-2161449.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+    margin-top: 25%;
+    text-shadow: 2px;
+}
+#hello {
+    margin-bottom: 10px; /* Adjust the value as needed to decrease the gap */
+}
+
+p {
+    margin-top: 10px; /* Adjust the value as needed to decrease the gap */
+}
